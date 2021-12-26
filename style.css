@@ -1,0 +1,207 @@
+body {
+    background-color: #23252C
+}
+.profile-picture{
+    width: 200px;
+    height: 217px;
+    position: absolute;
+    border-radius: 10px 10px 0px 0px;
+    top: 44px;
+    left: 116px;
+}
+
+.rectangle {
+    width: 200px;
+    height: 300px;
+    background: #1A1B21;
+    left: 116px;
+    top: 251px;
+    position: absolute;
+}
+
+.name-details > h3, h4, h5 {
+    text-align: center;
+
+}
+.my-name {
+    position: absolute;
+    left: 146px;
+    top: 240px;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+.my-role {
+    position: absolute;
+    left: 159px;
+    top: 270px;
+    font-size: 12.8px;
+    color: #F3BF99;
+    text-align: center;
+    line-height: 15px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.my-website {
+    position: absolute;
+    left: 175px;
+    top: 285px;
+    font-size: 10.24px;
+    color: #F5F5F5;
+    text-align: center;
+    line-height: 15px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.email-btn {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    width: 70px;
+    height: 24px;
+    top: 330px;
+    left: 130px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-sizing: border-box;
+    font-size: 10px;
+    margin: 0px 8px;
+    order: 1;
+    flex-grow: 0;
+    flex: none;
+    line-height: 16px;
+    font-style: normal;
+    font-family: Inter;
+    
+}
+
+.linkedin-btn {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    width: 70px;
+    height: 24px;
+    top: 330px;
+    left: 225px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-sizing: border-box;
+    font-size: 10px;
+    margin: 0px 8px;
+    order: 1;
+    flex-grow: 0;
+    flex: none;
+    color: white;
+    background: #5093E2;
+    font-style: normal;
+    font-family: Inter;
+    font-weight: 500;
+}
+
+.about-me {
+    position: absolute;
+    left: 132px;
+    top: 360px;
+    font-family: Inter;
+    font-style: normal;
+    line-height: 150%;
+    font-size: 12.5px;
+    color: #F5F5F5;
+    font-weight: 700;   
+}
+
+.about-text {
+    font-family: Inter;
+    font-size: 8px;
+    font-weight: 400;
+    position: absolute;
+    color:#DCDCDC;
+    top: 390px;
+    width: 170px;
+    height: 61px;
+    left: 132px;
+    font-style: normal;
+    line-height: 150%;
+}
+
+.interest-me {
+    position: absolute;
+    left: 132px;
+    top: 435px;
+    font-family: Inter;
+    font-style: normal;
+    line-height: 150%;
+    font-size: 12.5px;
+    color: #F5F5F5;
+    font-weight: 700;   
+}
+
+.interest-text {
+    font-family: Inter;
+    font-size: 8px;
+    font-weight: 400;
+    position: absolute;
+    color:#DCDCDC;
+    top: 465px;
+    width: 170px;
+    height: 61px;
+    left: 132px;
+    font-style: normal;
+    line-height: 150%;
+}
+
+.rectangle-footer {
+    width: 200px;
+    height: 44px;
+    background: #161619;
+    left: 116px;
+    top: 550px;
+    position: absolute;
+    border-radius: 0px 0px 10px 10px;
+    align-items: center;
+
+}
+
+.rectangle-footer .fa-twitter {
+    position: absolute;
+    background: #918E9B;
+    left: 50px;
+    top: 20px;
+}
+
+.rectangle-footer .fa-facebook {
+    position: absolute;
+    background: #918E9B;
+    left: 75px;
+    right: 110px;
+    top: 20px;
+}
+
+.rectangle-footer .fa-instagram { 
+    position: absolute;
+    background: #918E9B;
+    left: 100px;
+    top: 20px;
+}
+
+.rectangle-footer .fa-github { 
+    position: absolute;
+    background: #918E9B;
+    left: 125px;
+    top: 20px;
+
+} 
+
+
